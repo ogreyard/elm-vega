@@ -1,6 +1,6 @@
 # elm-vega
 
-_Thi is an archived version compatible with Elm 0.18. Latest version can be found at [github.com/gicentre/elm-vega](https://github.com/gicentre/elm-vega)_
+_This is an archived version compatible with Elm 0.18. Latest version can be found at [github.com/gicentre/elm-vega](https://github.com/gicentre/elm-vega)_
 
 <h1><img srcset="https://raw.githubusercontent.com/gicentre/elm-vega/master/images/banner.jpg, https://raw.githubusercontent.com/gicentre/elm-vega/master/images/bannerFull.jpg 2x" src="https://raw.githubusercontent.com/gicentre/elm-vega/master/images/banner.jpg" alt="elm-vega" style="max-width: 100%;" /></h1>
 
